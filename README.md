@@ -26,7 +26,9 @@ Additional Notes:
   -Payment processing integration needs to be implemented separately. Consider using a payment gateway service like Stripe or Paystack.
   
   -For deployment to a production server, refer to Django deployment documentation https://docs.djangoproject.com/en/5.0/howto/deployment/
-  Contributing:
+  
+
+Contributing:
 
 *We welcome contributions to this project!*
 Please create a pull request to propose any changes or additions.
